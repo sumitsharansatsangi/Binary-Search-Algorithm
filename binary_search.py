@@ -1,6 +1,6 @@
 sort=[2,5,9,10,13,18,20,29,30,35]
 l=0
-u=len(sort)
+u=len(sort)                                                  //len function returns the number of item in an object
 print(u)
 search=15
 while(True):
